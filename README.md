@@ -1,0 +1,1 @@
+Dans cette activité je vais simuler un projet d'un site vitrine simple contenant un fichier index.html ainsi qu'un répertoire "css" contenant le fichier "stylesheet.css" censé (il sera factice) mettre en forme le code html
